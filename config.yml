@@ -1,0 +1,10 @@
+%YAML:1.0
+calibMode: 0
+width: 512
+height: 384
+leftOffset: 80
+rightOffset: 33
+topOffset: 55
+bottomOffset: 28
+areaThreshold: 400
+grayLevelsReduction: 32
