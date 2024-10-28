@@ -1,0 +1,28 @@
+APP:
+    saveFolder : "./captures"
+
+VIEW:
+    buttons:
+        Size:
+            w: 10
+            h: 4
+        Padding:
+            x: 30
+            y: 30
+        FontSize: 12
+    processMenu:
+        Width: 500
+        FontSize: 24
+
+CAMERAS:
+    IR:
+        resolution:
+            x: 160
+            y: 120
+    VISIBLE:
+        resolution:
+            x: 640
+            y: 480
+        capture_resolution:
+            x: 1920
+            y: 1080
