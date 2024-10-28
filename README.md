@@ -20,3 +20,4 @@ Type the following commands on the shell command of your Rapsberry Pi:
   * python build_release
   * Replace the default config.yaml to your config.yaml in the corresponding release folder
 
+Within the VisionBio_v3 project branch, you’ll find a folder named 'Plugins' containing sample Python image processing algorithms. These can be added to the platform to execute in real-time with the IR camera.
